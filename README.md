@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+My name is Shashank Sharma, and I'm currently working in Flo Mobility as a Robotics and AI Engineer 
+
+- 🔭 I’m currently working on Autonomous 4WD Robots, Indor Autonomous 
+- 🌱 I’m currently learning Robotics Operating System, AI Agents, Visual Artificial Intelligence.
+- 📫 How to reach me: [Protfolio](https://shashanksharma280201.github.io/portfolio/)
 
 
 <!--
