@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![snake gif](https://github.com/Shashanksharma280201/Shashanksharma280201/blob/output/github-snake-dark.svg)
